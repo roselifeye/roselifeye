@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Roselifeye.
+
+
+- 🔭 I’m currently working on Flutter, Swift and how to make my customers happy.
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about Flutter and mobile development.
+
+[![Roselifeye GitHub Data](https://github-readme-stats.vercel.app/api?username=roselifeye&show_icons=true&title_color=fff&icon_color=89CED4&text_color=F9F9F9&bg_color=151515)]()
 
 <!--
 **roselifeye/roselifeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

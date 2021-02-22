@@ -19,7 +19,7 @@
 
 ---
 
-[![Roselifeye GitHub Data](https://github-readme-stats.vercel.app/api?username=roselifeye&show_icons=true&title_color=fff&icon_color=89CED4&text_color=F9F9F9&bg_color=151515)]()
+![Roselifeye GitHub Data](https://github-readme-stats.vercel.app/api?username=roselifeye&show_icons=true&title_color=fff&icon_color=89CED4&text_color=F9F9F9&bg_color=151515)
 
 <!--
 **roselifeye/roselifeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
